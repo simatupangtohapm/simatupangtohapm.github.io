@@ -1,4 +1,13 @@
 body {
-  /* background-image: url(../images/background/skynight.jpg); */
   background-color: azure;
+}
+
+img.logobps {
+  border-radius: 5px 5px 5px 5px;
+}
+
+h5.logobps {
+  text-align: center;
+  margin-top: 45px;
+  text-decoration: underline;
 }
